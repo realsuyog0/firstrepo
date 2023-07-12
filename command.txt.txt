@@ -1,0 +1,5 @@
+The used commands are:
+git config
+git init
+git status
+history
